@@ -1,4 +1,4 @@
-# Arquivos criados no acompanhamento do Curso de JavaScript da Ada para a trilha de Front-End do Santander Coder 2023
+# Arquivos criados no acompanhamento do Curso de JavaScript da Ada para a trilha de Front-End do Santander Coders 2023
 
 - Faça um git clone desse repositório.
 - No terminal, na pasta raiz desse projeto dê o comando:
